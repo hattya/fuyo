@@ -1,0 +1,4 @@
+*.py[co]
+*.sw?
+build/
+fuyo/__version__.py
